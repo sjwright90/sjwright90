@@ -1,7 +1,8 @@
-- Hello, I am Samuel Wright, I am a DSBA MS student at UNC Charlotte
-- I am interested in data science applications for clinical medical purposes, NLP tools, and data science for social justice
-- I am a teaching assistant for undergraduate DS courses
-- Currently I am focusing on NLP tools and deep learning infrastructures
+- Hello, I am Samuel Wright, I am a Data Science and Busines Analytics MSc student at UNC Charlotte
+- I moved into data science from the geosciences
+- I am interested in data science applications in the natural sciences and medical sciences, imaging and and predictive modeling being the general hard skills I would like to apply
+- I am a teaching assistant for undergraduate data science courses
+- Currently I am focusing on image manipulation, NLP tools, deep learning infrastructures for image classification, and machine learning
 - I would be happy to collaborate on any project within the scope of my aforementioned interests
 - Contact: swrig109@uncc.edu
 
