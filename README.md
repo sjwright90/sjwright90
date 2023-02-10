@@ -1,8 +1,8 @@
 - Hello, I am Samuel Wright, I am a Data Science and Busines Analytics MSc student at UNC Charlotte
 - I moved into data science from the geosciences
-- I currently am interested in data science applications in the natural sciences and medical sciences
+- I am most interested in data science applications in the natural sciences and medical sciences
 - I am a teaching assistant for upper level undergraduate data science courses
-- Currently I am most interested in deep learning infrastructures for computer vision and NLP, as well as geospatial analytics
+- Currently I am focusing on deep learning for computer vision and NLP, as well as geospatial analytics
 - I would be happy to collaborate on any project within the scope of my aforementioned interests
 - Contact: swrig109@uncc.edu
 
