@@ -1,4 +1,4 @@
-- Hello, I am Samuel Wright, I am a Data Science and Busines Analytics MSc student at UNC Charlotte
+- Hello, I am Samuel Wright
 - Employed as a Data Scientist-Geochemist at Life Cycle Geo LLC
 - I moved into data science from the geosciences, and now work at the intersection of the two
 - Currently I am interested in predictive modeling of environmental geochemical data, visual analytics, and automated data pipelines for geoscientific data
