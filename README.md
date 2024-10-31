@@ -1,7 +1,8 @@
 - Hello, I am Samuel Wright
-- Employed as a Data Scientist-Geochemist at Life Cycle Geo LLC
+- Lead Data Scientist-Geochemist at Life Cycle Geo LLC
 - I moved into data science from the geosciences, and now work at the intersection of the two
 - Currently I am interested in predictive modeling of environmental geochemical data, visual analytics, and automated data pipelines for geoscientific data
+- I dabble in embedded systems, focused on automated data collection, communications, and EdgeAI for environmental monitoring. C/C++, ESP-IDF, Arduino
 - I would be happy to collaborate on any project within the scope of my aforementioned interests
 - Contact: swrig109@uncc.edu | sam@lifecyclegeo.com
 
